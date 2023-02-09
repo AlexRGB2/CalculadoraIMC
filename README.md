@@ -1,6 +1,6 @@
-# untitled
+# Calculadora IMC
 
-A new Flutter project.
+Ejemplo de App Nativa con Flutter, para practica y haciendo uso de buenas practicas.
 
 ## Getting Started
 
